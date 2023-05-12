@@ -1,6 +1,6 @@
  -- Associating the columns
  
-USE BOOKS;
+USE Books;
   
 SELECT bu.UserID, bu.Age, bu.City, bu.Country,
 br.ISBN, br.Book_Rating,
